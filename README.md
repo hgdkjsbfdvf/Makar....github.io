@@ -27,3 +27,106 @@
 <p style="font-size: 30px; text-align: center;">Решу ваши вопросы с недвижимостью со 100% результатом.</p>
 <a class="h" href="top"><b>Консультация</b></a>
 </html>
+
+<style>
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+}
+.l {
+    font-size: 40px;
+}
+.h {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    border-radius: 30px;
+}
+.y {
+    font-size: 50px;
+    text-align: center;
+}
+div#tekst_sverhu_kartinki {
+
+position: relative;
+
+}.tekst_sverhu_kartinki {
+
+position: absolute;
+
+top: 10%;
+
+left: 300px;
+
+text-transform: uppercase;
+
+color: white;
+
+width: 350px;
+
+background: #00000094;
+
+padding: 10px;
+
+text-align: center;
+
+font: bold 24px/34px Helvetica, Sans-Serif;
+
+border-radius: 30px;
+}
+.q {
+position: absolute;
+
+top: 30%;
+
+left: 300px;
+
+text-transform: uppercase;
+
+color: white;
+
+width: 350px;
+
+background: #00000094;
+
+padding: 10px;
+
+text-align: center;
+
+font: bold 24px/34px Helvetica, Sans-Serif;
+
+border-radius: 30px;
+}
+.p {
+position: absolute;
+
+top: 50%;
+
+left: 170px;
+
+text-transform: uppercase;
+
+color: white;
+
+width: 600px;
+
+background: #00000094;
+
+padding: 10px;
+
+text-align: center;
+
+font: bold 24px/34px Helvetica, Sans-Serif;
+
+border-radius: 30px;
+}
+.c {
+    font-size: 50px;
+    text-align: center;
+}
+</style>
