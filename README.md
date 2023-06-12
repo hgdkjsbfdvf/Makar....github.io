@@ -1,19 +1,12 @@
 <html>
   <header>
-    <div id="tekst_sverhu_kartinki">
-
-<img src="https://skgarantiya.ru/img/images/image_015@2x.jpg" width="1010px" height="400px"/>
-
-<div class="tekst_sverhu_kartinki">Южный ЭКСПЕРТ</div>
-<div class="q">+79011011796</div>
-<div class="p">Ваш консультант по недвижимости в Краснодаре. Подбор, покупка, инвестиции. Оправдываю доверие клиентов.</div>
-</div>
-    <div style="float: left;">
-<img src="https://softdaily.ru/wp-content/uploads/2017/03/WhatsApp.png"width="50px" height="50px"/>
-</div>
-<div style="float: left; font-size: 40px;">
-+79011011796
-<a name="top"/>
+    <div class="container">
+  <img src="img_snow_wide.jpg" alt="Snow" style="width:100%;">
+  <div class="bottom-left">Bottom Left</div>
+  <div class="top-left">Top Left</div>
+  <div class="top-right">Top Right</div>
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered">Centered</div>
 </div>
   </header>
     <p class="c"><b>Почему клиенты доверяют операции с недвижимостью в Краснодаре мне?</b></p>
